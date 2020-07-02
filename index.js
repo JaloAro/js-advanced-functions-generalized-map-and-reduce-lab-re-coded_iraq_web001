@@ -8,16 +8,7 @@ function map(array, callBack) {
   return newArray;
 }
 
-// let arr = [1, 2, 3];
-
-// let arr2 = map(arr, increase);
-
-// console.log(arr2);
-
-// function increase(x) {
-//   return x + 1;
-// }
-
+/
 
 function reduce(array, callBack, startingPoint) {
   let val;
