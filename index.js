@@ -8,7 +8,7 @@ function map(array, callBack) {
   return newArray;
 }
 
-/
+
 
 function reduce(array, callBack, startingPoint) {
   let val;
